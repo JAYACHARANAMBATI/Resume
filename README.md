@@ -51,7 +51,7 @@ A full-fledged tool for **analyzing resumes** against job descriptions to help u
 - Results displayed in organized, easy-to-read sections  
 
 #### 🌐 **Live Demo**  
-👉 Try the app here: [https://resume-j17r.onrender.com/](https://resume-j17r.onrender.com/)
+👉 Try the app here: [https://resume-j17r.onrender.com/]((https://resume-j17r.onrender.com/))
 
 ---
 
