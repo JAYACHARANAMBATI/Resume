@@ -1,10 +1,15 @@
-Absolutely! Here’s your complete `README.md` with the **live demo link added** and everything neatly formatted:
 
----
 
 # 💼 AI-Powered Chatbot & Resume Analyzer using Gemini Pro
 
 This project showcases two powerful applications built with **LangChain**, **Streamlit**, and **Google's Gemini 1.5 Pro** model. The applications demonstrate how large language models (LLMs) can be integrated into practical tools for different domains—**conversational AI** and **career enhancement**.
+
+---
+
+## 🌐 Live Demo
+
+🎯 Try the deployed app here:  
+👉 [https://resume-j17r.onrender.com/](https://resume-j17r.onrender.com/)
 
 ---
 
@@ -23,6 +28,7 @@ This project showcases two powerful applications built with **LangChain**, **Str
 ## 🚀 Features
 
 ### 🔹 `gemini.py` – AI Chatbot Demo
+
 A lightweight Streamlit app showcasing a **conversational chatbot** built with:
 - **LangChain** for prompt management and output parsing
 - **Gemini-1.5-Pro** model from Google
@@ -36,22 +42,20 @@ A lightweight Streamlit app showcasing a **conversational chatbot** built with:
 
 ---
 
-### 🔹 `resume.py` – AI Resume Analyzer  
+### 🔹 `resume.py` – AI Resume Analyzer
+
 A full-fledged tool for **analyzing resumes** against job descriptions to help users improve their chances in job applications.
 
 #### ✅ Features:
 - Upload support for `.pdf`, `.txt`, and `.docx` resume formats  
 - AI-powered comparison against a job description  
 - Match scoring and similarity analysis  
-- Identification of:  
+- Identification of:
   - Strengths  
   - Weaknesses  
   - Missing keywords  
 - Progress bar for smooth user experience  
 - Results displayed in organized, easy-to-read sections  
-
-#### 🌐 **Live Demo**  
-👉 Try the app here: [https://resume-j17r.onrender.com/]((https://resume-j17r.onrender.com/))
 
 ---
 
@@ -113,5 +117,3 @@ streamlit run resume.py
 - Thanks to the LangChain team for seamless LLM integrations  
 
 ---
-
-Let me know if you want a GitHub badge added at the top for the live app, a demo video/gif section, or deployment instructions (e.g., for Vercel/Render)!
